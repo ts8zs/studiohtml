@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-345d0c28","path":"/en/Tutorials/Programming/InputAndCamera/Cross-Server%20Messaging.html","title":"脚本","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/InputAndCamera/Cross-Server Messaging.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

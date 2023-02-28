@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5a360866","path":"/en/Api/DataType/DataTypeIndexes.html","title":"数据类型索引","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Api/DataType/DataTypeIndexes.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3bf6bca6","path":"/Api/Class/Sound/SandboxSound_F/TransObject.html","title":"TransObject","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"描述","slug":"描述","link":"#描述","children":[]}],"filePathRelative":"Api/Class/Sound/SandboxSound_F/TransObject.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{e as data};

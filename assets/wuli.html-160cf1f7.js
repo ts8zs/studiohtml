@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3d9f6a56","path":"/en/Tutorials/Tutorials/Physics/wuli.html","title":"物理","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Tutorials/Physics/wuli.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{t as data};

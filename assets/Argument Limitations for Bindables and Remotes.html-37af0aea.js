@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as n,R as e,t as s}from"./framework-204010b2.js";const o={},r=e("h1",{id:"脚本",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#脚本","aria-hidden":"true"},"#"),s(" 脚本")],-1),_=[r];function i(c,d){return a(),n("div",null,_)}const m=t(o,[["render",i],["__file","Argument Limitations for Bindables and Remotes.html.vue"]]);export{m as default};

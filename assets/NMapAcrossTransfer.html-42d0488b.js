@@ -1,0 +1,1 @@
+import{_ as a,p as r,q as s,R as e,t}from"./framework-204010b2.js";const c={},o=e("h1",{id:"跨地图传送",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#跨地图传送","aria-hidden":"true"},"#"),t(" 跨地图传送")],-1),n=[o];function _(d,i){return r(),s("div",null,n)}const h=a(c,[["render",_],["__file","NMapAcrossTransfer.html.vue"]]);export{h as default};

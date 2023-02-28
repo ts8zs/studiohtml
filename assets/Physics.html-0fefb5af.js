@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-465a3542","path":"/en/Tutorials/Build/Physics/Physics.html","title":"物理","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Build/Physics/Physics.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a6da11a8","path":"/Tutorials/Build/ModelCreate/PolygonModel.html","title":"标题","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Build/ModelCreate/PolygonModel.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-070faf51","path":"/en/Tutorials/Programming/Network/ProgramNetwork.html","title":"网络","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/Network/ProgramNetwork.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

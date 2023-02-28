@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ad69bc0a","path":"/Tutorials/Programming/Script/Script%20Storage.html","title":"脚本","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Programming/Script/Script Storage.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

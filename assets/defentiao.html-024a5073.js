@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as o,R as e,t as c}from"./framework-204010b2.js";const n={},r=e("h1",{id:"标题",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#标题","aria-hidden":"true"},"#"),c(" 标题")],-1),s=[r];function _(d,i){return a(),o("div",null,s)}const h=t(n,[["render",_],["__file","defentiao.html.vue"]]);export{h as default};

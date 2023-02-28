@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-46c2abbc","path":"/Tutorials/Tutorials/Effect/jichuteixiao.html","title":"标题","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Tutorials/Effect/jichuteixiao.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

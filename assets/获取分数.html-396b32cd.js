@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4c77e764","path":"/en/Tutorials/Tutorials/BaseScript/%E8%8E%B7%E5%8F%96%E5%88%86%E6%95%B0.html","title":"标题","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Tutorials/BaseScript/获取分数.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

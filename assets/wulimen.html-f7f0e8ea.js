@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-56d6b547","path":"/en/Tutorials/Tutorials/Physics/wulimen.html","title":"标题","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Tutorials/Physics/wulimen.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};
