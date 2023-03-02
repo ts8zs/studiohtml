@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-01d15546","path":"/en/Tutorials/Build/ModelCreate/ModelCreate.html","title":"创建模型","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Build/ModelCreate/ModelCreate.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

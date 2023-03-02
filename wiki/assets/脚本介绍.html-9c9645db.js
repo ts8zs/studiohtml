@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1495d5a4","path":"/Tutorials/Tutorials/BaseScript/%E8%84%9A%E6%9C%AC%E4%BB%8B%E7%BB%8D.html","title":"标题","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Tutorials/BaseScript/脚本介绍.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

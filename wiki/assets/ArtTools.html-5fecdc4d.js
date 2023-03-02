@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-68ce6caa","path":"/en/Tutorials/Introduce/ArtTools.html","title":"美术工具导览","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Introduce/ArtTools.md","git":{"createdTime":1675999524000,"updatedTime":1675999524000}}');export{e as data};

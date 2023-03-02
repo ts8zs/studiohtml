@@ -1,0 +1,1 @@
+import{_ as t,p as o,q as a,R as e,t as c}from"./framework-5866ffd3.js";const n={},r=e("h1",{id:"notify",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#notify","aria-hidden":"true"},"#"),c(" Notify")],-1),s=[r];function i(_,d){return o(),a("div",null,s)}const h=t(n,[["render",i],["__file","Notify.html.vue"]]);export{h as default};

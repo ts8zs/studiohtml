@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as o,R as e,t as c}from"./framework-5866ffd3.js";const r={},s=e("h1",{id:"聊天框",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#聊天框","aria-hidden":"true"},"#"),c(" 聊天框")],-1),n=[s];function _(d,h){return a(),o("div",null,n)}const l=t(r,[["render",_],["__file","ChatBox.html.vue"]]);export{l as default};

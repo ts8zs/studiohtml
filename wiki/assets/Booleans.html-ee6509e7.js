@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as o,R as e,t as s}from"./framework-5866ffd3.js";const c={},n=e("h1",{id:"脚本",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#脚本","aria-hidden":"true"},"#"),s(" 脚本")],-1),r=[n];function _(d,l){return a(),o("div",null,r)}const h=t(c,[["render",_],["__file","Booleans.html.vue"]]);export{h as default};

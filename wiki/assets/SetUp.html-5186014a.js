@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0782753e","path":"/docs/Tutorials/Introduce/SetUp.html","title":"安装与运行","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"docs/Tutorials/Introduce/SetUp.md","git":{"createdTime":1677756737000,"updatedTime":1677756737000}}');export{t as data};

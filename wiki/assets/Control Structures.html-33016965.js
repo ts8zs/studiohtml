@@ -1,0 +1,1 @@
+import{_ as t,p as r,q as o,R as e,t as a}from"./framework-5866ffd3.js";const c={},s=e("h1",{id:"脚本",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#脚本","aria-hidden":"true"},"#"),a(" 脚本")],-1),n=[s];function _(d,l){return r(),o("div",null,n)}const h=t(c,[["render",_],["__file","Control Structures.html.vue"]]);export{h as default};

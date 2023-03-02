@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-aa6c1f02","path":"/en/Tutorials/Node/NEffects.html","title":"特效","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Node/NEffects.md","git":{"createdTime":1677673270000,"updatedTime":1677673270000}}');export{e as data};

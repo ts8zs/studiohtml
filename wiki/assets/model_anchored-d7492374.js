@@ -1,0 +1,1 @@
+const s="/wiki/Images/tutorials_imgs/node_imgs/model_move.jpg",i="/wiki/Images/tutorials_imgs/node_imgs/model_selected_pos.jpg",o="/wiki/Images/tutorials_imgs/node_imgs/model_euler.jpg",_="/wiki/Images/tutorials_imgs/node_imgs/model_rotate.jpg",m="/wiki/Images/tutorials_imgs/node_imgs/model_anchored.jpg";export{s as _,i as a,o as b,_ as c,m as d};

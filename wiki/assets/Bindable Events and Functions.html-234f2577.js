@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-318a589a","path":"/en/Tutorials/Programming/Event/Bindable%20Events%20and%20Functions.html","title":"脚本","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/Event/Bindable Events and Functions.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

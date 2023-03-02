@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-967b87b8","path":"/en/Tutorials/Tutorials/Physics/tanhuang.html","title":"标题","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Tutorials/Physics/tanhuang.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{t as data};

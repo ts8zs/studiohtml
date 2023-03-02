@@ -1,0 +1,1 @@
+const i="/wiki/Images/tutorials_imgs/operation_imgs/attr_view.jpg",t="/wiki/Images/tutorials_imgs/operation_imgs/attr_view_custom.jpg",s="/wiki/Images/tutorials_imgs/operation_imgs/attr_view_custom_list.jpg";export{i as _,t as a,s as b};

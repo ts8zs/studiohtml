@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-61d7063c","path":"/en/Tutorials/Node/Physical.html","title":"物理约束","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Node/Physical.md","git":{"createdTime":1677673270000,"updatedTime":1677673270000}}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5f1b50ae","path":"/Tutorials/Node/TeamSet.html","title":"队伍设置","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"实现 Team（团队）","slug":"实现-team-团队","link":"#实现-team-团队","children":[]}],"filePathRelative":"Tutorials/Node/TeamSet.md","git":{"createdTime":1675937086000,"updatedTime":1676428876000}}');export{e as data};

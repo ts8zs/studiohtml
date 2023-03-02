@@ -1,0 +1,1 @@
+import{_ as e,p as t,q as c,R as n}from"./framework-5866ffd3.js";const _={},o=n("p",null,"ScriptObject",-1),s=[o];function a(f,l){return t(),c("div",null,s)}const u=e(_,[["render",a],["__file","EnumDefaultEffect.html.vue"]]);export{u as default};

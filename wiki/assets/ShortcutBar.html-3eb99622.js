@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as c}from"./framework-5866ffd3.js";const o={},s=e("h1",{id:"道具与快捷栏",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#道具与快捷栏","aria-hidden":"true"},"#"),c(" 道具与快捷栏")],-1),n=[s];function _(d,h){return a(),r("div",null,n)}const l=t(o,[["render",_],["__file","ShortcutBar.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-e8e98612","path":"/en/Tutorials/Node/NodeIntroduction.html","title":"节点功能介绍","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"定义","slug":"定义","link":"#定义","children":[]}],"filePathRelative":"en/Tutorials/Node/NodeIntroduction.md","git":{"createdTime":1677673270000,"updatedTime":1677673270000}}');export{e as data};

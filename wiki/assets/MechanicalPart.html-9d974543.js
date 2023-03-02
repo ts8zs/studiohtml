@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-d30ab284","path":"/Tutorials/Build/MechanicalPart/MechanicalPart.html","title":"机械部件","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Build/MechanicalPart/MechanicalPart.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{a as data};

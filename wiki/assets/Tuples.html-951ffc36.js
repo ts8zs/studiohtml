@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-43e3d0ca","path":"/Tutorials/Programming/Lua/LuaDataType/Tuples.html","title":"脚本","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Programming/Lua/LuaDataType/Tuples.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{a as data};

@@ -1,0 +1,1 @@
+import{_ as t,p as c,q as r,R as e,t as a}from"./framework-5866ffd3.js";const s={},o=e("h1",{id:"脚本",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#脚本","aria-hidden":"true"},"#"),a(" 脚本")],-1),_=[o];function n(i,d){return c(),r("div",null,_)}const l=t(s,[["render",n],["__file","Script Architecture.html.vue"]]);export{l as default};

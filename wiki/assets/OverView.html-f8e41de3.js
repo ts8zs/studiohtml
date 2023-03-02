@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as c}from"./framework-5866ffd3.js";const s={},o=e("h1",{id:"建造",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#建造","aria-hidden":"true"},"#"),c(" 建造")],-1),n=[o];function _(d,i){return a(),r("div",null,n)}const l=t(s,[["render",_],["__file","OverView.html.vue"]]);export{l as default};

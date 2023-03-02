@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as i,R as e,t as o}from"./framework-5866ffd3.js";const c={},n=e("h1",{id:"标题",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#标题","aria-hidden":"true"},"#"),o(" 标题")],-1),r=[n];function s(_,d){return a(),i("div",null,r)}const l=t(c,[["render",s],["__file","zidingyitexiao.html.vue"]]);export{l as default};

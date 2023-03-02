@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-560dc73a","path":"/en/Tutorials/Node/NMapTransfer.html","title":"同地图传送","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"改变当前玩家的位置","slug":"改变当前玩家的位置","link":"#改变当前玩家的位置","children":[]}],"filePathRelative":"en/Tutorials/Node/NMapTransfer.md","git":{"createdTime":1677673270000,"updatedTime":1677673270000}}');export{e as data};

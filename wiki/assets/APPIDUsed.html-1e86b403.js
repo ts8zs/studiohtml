@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as s,R as e,t as c}from"./framework-5866ffd3.js";const r={},d=e("h1",{id:"appid的使用",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#appid的使用","aria-hidden":"true"},"#"),c(" APPID的使用")],-1),o=[d];function n(_,i){return a(),s("div",null,o)}const l=t(r,[["render",n],["__file","APPIDUsed.html.vue"]]);export{l as default};

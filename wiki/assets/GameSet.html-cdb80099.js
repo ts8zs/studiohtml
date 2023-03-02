@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7dbbfff5","path":"/Tutorials/BaseOperation/GameSet.html","title":"MiniStudio 快捷参考","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"游戏设置弹框","slug":"游戏设置弹框","link":"#游戏设置弹框","children":[]}],"filePathRelative":"Tutorials/BaseOperation/GameSet.md","git":{"createdTime":1676948710000,"updatedTime":1676948710000}}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-df6f1eb6","path":"/en/Tutorials/Tutorials/PlayerInputAndCameras/%E8%8E%B7%E5%8F%96%E7%8E%A9%E5%AE%B6%E8%BE%93%E5%85%A5.html","title":"标题","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Tutorials/PlayerInputAndCameras/获取玩家输入.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-396bad6e","path":"/en/Tutorials/Script/Effect/EnumDefaultEffect.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Script/Effect/EnumDefaultEffect.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};
