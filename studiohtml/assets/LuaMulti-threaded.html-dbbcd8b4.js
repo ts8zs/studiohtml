@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-e26b8a9c","path":"/en/Tutorials/Programming/Lua/LuaMulti-threaded/LuaMulti-threaded.html","title":"多线程运行","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/Lua/LuaMulti-threaded/LuaMulti-threaded.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

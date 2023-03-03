@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-a2c90be6","path":"/en/Tutorials/Script/Sound/EnumDefaultSound.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Script/Sound/EnumDefaultSound.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

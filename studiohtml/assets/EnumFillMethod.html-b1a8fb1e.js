@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-5e54ddd6","path":"/en/Tutorials/Script/UI/EnumFillMethod.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Script/UI/EnumFillMethod.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

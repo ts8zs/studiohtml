@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-054404bb","path":"/Tutorials/Programming/Lua/LuaDataType/Booleans.html","title":"脚本","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Programming/Lua/LuaDataType/Booleans.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{a as data};

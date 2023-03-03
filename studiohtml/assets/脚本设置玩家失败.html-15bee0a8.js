@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6fd7593b","path":"/Tutorials/Tutorials/BaseScript/%E8%84%9A%E6%9C%AC%E8%AE%BE%E7%BD%AE%E7%8E%A9%E5%AE%B6%E5%A4%B1%E8%B4%A5.html","title":"标题","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Tutorials/BaseScript/脚本设置玩家失败.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

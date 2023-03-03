@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-a69d6590","path":"/en/Tutorials/Tutorials/Model/duobianxingmoxing.html","title":"标题","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Tutorials/Model/duobianxingmoxing.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

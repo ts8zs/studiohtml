@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-07995a9c","path":"/en/Tutorials/Programming/Lua/DataStructures/%E5%85%83%E8%A1%A8.html","title":"脚本","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/Lua/DataStructures/元表.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{t as data};

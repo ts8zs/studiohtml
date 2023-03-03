@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-20fc62d0","path":"/en/Api/Parameter/SBXSignal.html","title":"","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Api/Parameter/SBXSignal.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-7ad0b3b2","path":"/en/Tutorials/Build/ActorBuild/ActorBuild.html","title":"人物建模","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Build/ActorBuild/ActorBuild.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{t as data};

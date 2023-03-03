@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-be843294","path":"/Tutorials/Tutorials/AdvancedScripting/%E6%95%B0%E6%8D%AE%E4%BF%9D%E5%AD%98.html","title":"标题","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Tutorials/AdvancedScripting/数据保存.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

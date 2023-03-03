@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-dc68467a","path":"/Tutorials/Programming/Event/Using%20Events.html","title":"脚本","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Programming/Event/Using Events.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

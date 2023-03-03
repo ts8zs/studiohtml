@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-4d6874c4","path":"/Tutorials/Programming/Lua/LuaScriptFunction/Operators.html","title":"脚本","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Programming/Lua/LuaScriptFunction/Operators.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

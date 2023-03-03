@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-4d915d9a","path":"/en/Tutorials/Tutorials/BaseScript/%E8%84%9A%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%89%A9%E4%BD%93%E7%A7%BB%E5%8A%A8.html","title":"标题","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Tutorials/BaseScript/脚本控制物体移动.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{t as data};

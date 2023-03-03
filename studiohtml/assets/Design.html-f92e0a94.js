@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-bea92ddc","path":"/en/Tutorials/Build/UserUI/Design/Design.html","title":"排版与设计","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Build/UserUI/Design/Design.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

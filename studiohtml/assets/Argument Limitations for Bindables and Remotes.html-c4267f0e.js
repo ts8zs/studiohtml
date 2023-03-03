@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-3578bc6b","path":"/Tutorials/Programming/Event/Argument%20Limitations%20for%20Bindables%20and%20Remotes.html","title":"脚本","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Programming/Event/Argument Limitations for Bindables and Remotes.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

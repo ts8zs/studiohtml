@@ -1,1 +1,0 @@
-import{_ as t,p as n,q as a,R as e,t as s}from"./framework-204010b2.js";const o={},c=e("h1",{id:"脚本",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#脚本","aria-hidden":"true"},"#"),s(" 脚本")],-1),_=[c];function r(d,i){return n(),a("div",null,_)}const l=t(o,[["render",r],["__file","Remote Events and Functions.html.vue"]]);export{l as default};

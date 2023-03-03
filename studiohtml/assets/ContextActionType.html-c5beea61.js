@@ -1,1 +1,0 @@
-import{_ as e,p as t,q as c,R as o}from"./framework-204010b2.js";const n={},_=o("p",null,"ScriptObject",-1),s=[_];function r(a,l){return t(),c("div",null,s)}const p=e(n,[["render",r],["__file","ContextActionType.html.vue"]]);export{p as default};

@@ -1,1 +1,0 @@
-import{_ as t,p as a,q as n,R as e,t as i}from"./framework-204010b2.js";const o={},c=e("h1",{id:"标题",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#标题","aria-hidden":"true"},"#"),i(" 标题")],-1),r=[c];function s(d,_){return a(),n("div",null,r)}const l=t(o,[["render",s],["__file","duobianxingdixing.html.vue"]]);export{l as default};

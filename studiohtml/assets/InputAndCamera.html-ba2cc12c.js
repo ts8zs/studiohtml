@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-45d00047","path":"/en/Tutorials/Programming/InputAndCamera/InputAndCamera.html","title":"输入与相机","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/InputAndCamera/InputAndCamera.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{a as data};

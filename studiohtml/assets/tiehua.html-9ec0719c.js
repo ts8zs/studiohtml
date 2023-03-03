@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6cbbe662","path":"/Tutorials/Tutorials/Model/tiehua.html","title":"标题","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Tutorials/Model/tiehua.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

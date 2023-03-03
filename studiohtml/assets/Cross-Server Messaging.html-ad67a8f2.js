@@ -1,1 +1,0 @@
-import{_ as s,p as r,q as t,R as e,t as a}from"./framework-204010b2.js";const o={},c=e("h1",{id:"脚本",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#脚本","aria-hidden":"true"},"#"),a(" 脚本")],-1),n=[c];function _(d,i){return r(),t("div",null,n)}const l=s(o,[["render",_],["__file","Cross-Server Messaging.html.vue"]]);export{l as default};

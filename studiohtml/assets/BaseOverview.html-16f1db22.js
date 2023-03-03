@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-cba0ebee","path":"/Tutorials/Tutorials/BaseScript/BaseOverview.html","title":"脚本基础","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Tutorials/BaseScript/BaseOverview.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{e as data};

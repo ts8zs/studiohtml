@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-682877c5","path":"/Tutorials/Build/ModelCreate/Stickers.html","title":"标题","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Build/ModelCreate/Stickers.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{e as data};

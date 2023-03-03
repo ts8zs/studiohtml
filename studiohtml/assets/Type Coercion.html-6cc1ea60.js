@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-07a398da","path":"/en/Tutorials/Programming/Lua/LuaScriptFunction/Type%20Coercion.html","title":"脚本","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/Lua/LuaScriptFunction/Type Coercion.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-45ff2238","path":"/en/Tutorials/Tutorials/AdvancedScripting/%E5%8F%91%E5%B0%84%E5%AD%90%E5%BC%B9.html","title":"标题","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Tutorials/AdvancedScripting/发射子弹.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{t as data};

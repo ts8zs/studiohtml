@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2e7bb2e0","path":"/en/Tutorials/Programming/Data/Cross-Server%20Messaging.html","title":"脚本","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/Data/Cross-Server Messaging.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

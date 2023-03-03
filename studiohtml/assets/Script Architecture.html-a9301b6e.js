@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-910eda6e","path":"/Tutorials/Programming/Script/Script%20Architecture.html","title":"脚本","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Programming/Script/Script Architecture.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

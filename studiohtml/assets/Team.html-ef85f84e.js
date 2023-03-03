@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-71a51af7","path":"/docs/Tutorials/Introduce/Team.html","title":"团队工具教程","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"docs/Tutorials/Introduce/Team.md","git":{"createdTime":1676543321000,"updatedTime":1676965043000}}');export{e as data};

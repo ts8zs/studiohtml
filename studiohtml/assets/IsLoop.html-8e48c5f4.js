@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-dc81f738","path":"/en/Api/Class/Sound/SandboxSound_F/IsLoop.html","title":"IsLoop","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"描述","slug":"描述","link":"#描述","children":[]}],"filePathRelative":"en/Api/Class/Sound/SandboxSound_F/IsLoop.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

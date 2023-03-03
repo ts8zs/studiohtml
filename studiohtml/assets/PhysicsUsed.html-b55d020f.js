@@ -1,1 +1,0 @@
-import{_ as s,p as t,q as a,R as e,t as c}from"./framework-204010b2.js";const r={},o=e("h1",{id:"物理的使用",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#物理的使用","aria-hidden":"true"},"#"),c(" 物理的使用")],-1),n=[o];function _(d,i){return t(),a("div",null,n)}const l=s(r,[["render",_],["__file","PhysicsUsed.html.vue"]]);export{l as default};

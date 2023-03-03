@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-453bca5d","path":"/Tutorials/Programming/Player/Player%20Life%20Cycle.html","title":"脚本","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Programming/Player/Player Life Cycle.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{e as data};

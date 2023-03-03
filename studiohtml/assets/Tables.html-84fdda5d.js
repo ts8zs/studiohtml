@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-43df158d","path":"/en/Tutorials/Programming/Lua/LuaDataType/Tables.html","title":"脚本","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/Lua/LuaDataType/Tables.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{a as data};

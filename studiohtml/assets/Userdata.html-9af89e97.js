@@ -1,1 +1,0 @@
-import{_ as t,p as a,q as r,R as e,t as s}from"./framework-204010b2.js";const c={},o=e("h1",{id:"脚本",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#脚本","aria-hidden":"true"},"#"),s(" 脚本")],-1),n=[o];function _(d,i){return a(),r("div",null,n)}const l=t(c,[["render",_],["__file","Userdata.html.vue"]]);export{l as default};

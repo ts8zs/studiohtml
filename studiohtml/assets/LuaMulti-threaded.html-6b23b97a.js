@@ -1,1 +1,0 @@
-import{_ as t,p as a,q as r,R as e,t as c}from"./framework-204010b2.js";const s={},d=e("h1",{id:"多线程运行",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#多线程运行","aria-hidden":"true"},"#"),c(" 多线程运行")],-1),o=[d];function n(_,i){return a(),r("div",null,o)}const l=t(s,[["render",n],["__file","LuaMulti-threaded.html.vue"]]);export{l as default};

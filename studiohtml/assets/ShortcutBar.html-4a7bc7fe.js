@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-0dbde8f4","path":"/Tutorials/Node/ShortcutBar.html","title":"道具与快捷栏","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Node/ShortcutBar.md","git":{"createdTime":1675937086000,"updatedTime":1675937086000}}');export{t as data};

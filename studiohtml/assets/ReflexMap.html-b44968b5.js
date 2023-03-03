@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7b473131","path":"/en/Api/Parameter/ReflexMap.html","title":"Tuple","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Api/Parameter/ReflexMap.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

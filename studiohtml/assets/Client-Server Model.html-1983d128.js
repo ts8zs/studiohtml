@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-c8cb3b94","path":"/en/Tutorials/Programming/Data/Client-Server%20Model.html","title":"脚本","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/Data/Client-Server Model.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

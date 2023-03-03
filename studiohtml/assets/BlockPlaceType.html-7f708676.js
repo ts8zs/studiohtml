@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-0c110497","path":"/en/Api/Enumerate/UI/BlockPlaceType.html","title":"BLOCKPLACETYPE","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"枚举","slug":"枚举","link":"#枚举","children":[]}],"filePathRelative":"en/Api/Enumerate/UI/BlockPlaceType.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

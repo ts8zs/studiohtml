@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-6043a4f2","path":"/Tutorials/Tutorials/UI/GameTest.html","title":"MiniStudio 快捷参考","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"游戏编辑器窗口","slug":"游戏编辑器窗口","link":"#游戏编辑器窗口","children":[]}],"filePathRelative":"Tutorials/Tutorials/UI/GameTest.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

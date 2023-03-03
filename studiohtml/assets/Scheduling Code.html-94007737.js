@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-a42b32b8","path":"/en/Tutorials/Programming/Script/Scheduling%20Code.html","title":"脚本","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/Script/Scheduling Code.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

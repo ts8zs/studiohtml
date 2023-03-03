@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-40100ff8","path":"/en/Tutorials/Tutorials/AdvancedScripting/%E5%88%9B%E5%BB%BA%E6%AD%A6%E5%99%A8.html","title":"标题","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Tutorials/AdvancedScripting/创建武器.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{t as data};

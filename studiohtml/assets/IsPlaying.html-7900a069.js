@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-19fff148","path":"/en/Api/Class/Sound/SandboxSound_F/IsPlaying.html","title":"IsPlaying","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"描述","slug":"描述","link":"#描述","children":[]}],"filePathRelative":"en/Api/Class/Sound/SandboxSound_F/IsPlaying.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

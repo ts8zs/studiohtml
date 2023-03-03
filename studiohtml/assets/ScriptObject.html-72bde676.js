@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-3de5d1a0","path":"/Api/Class/Script/ScriptObject.html","title":"Script （等待对齐）","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Api/Class/Script/ScriptObject.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

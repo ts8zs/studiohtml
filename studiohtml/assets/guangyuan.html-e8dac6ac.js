@@ -1,1 +1,0 @@
-import{_ as a,p as t,q as n,R as e,t as c}from"./framework-204010b2.js";const r={},s=e("h1",{id:"标题",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#标题","aria-hidden":"true"},"#"),c(" 标题")],-1),o=[s];function _(d,i){return t(),n("div",null,o)}const l=a(r,[["render",_],["__file","guangyuan.html.vue"]]);export{l as default};

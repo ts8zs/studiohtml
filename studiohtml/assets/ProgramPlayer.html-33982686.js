@@ -1,1 +1,0 @@
-const a=JSON.parse('{"key":"v-a41ce0ce","path":"/Tutorials/Programming/Player/ProgramPlayer.html","title":"玩家","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Programming/Player/ProgramPlayer.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{a as data};

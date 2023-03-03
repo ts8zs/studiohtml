@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-5576e4ac","path":"/en/Tutorials/Tutorials/Environment/huanjing.html","title":"环境","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Tutorials/Environment/huanjing.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

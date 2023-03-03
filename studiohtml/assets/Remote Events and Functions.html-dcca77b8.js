@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-70ffee49","path":"/en/Tutorials/Programming/Event/Remote%20Events%20and%20Functions.html","title":"脚本","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/Event/Remote Events and Functions.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};
