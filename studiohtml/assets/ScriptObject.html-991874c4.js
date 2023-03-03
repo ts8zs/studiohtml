@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1612b378","path":"/en/Api/Class/Script/ScriptObject.html","title":"Script （等待对齐）","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Api/Class/Script/ScriptObject.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{t as data};

@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as c,R as e,t as r}from"./framework-204010b2.js";const n={},s=e("h1",{id:"机械部件",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#机械部件","aria-hidden":"true"},"#"),r(" 机械部件")],-1),o=[s];function _(d,i){return t(),c("div",null,o)}const l=a(n,[["render",_],["__file","MechanicalPart.html.vue"]]);export{l as default};

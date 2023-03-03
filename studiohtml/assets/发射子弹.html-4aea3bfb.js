@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4dd540cc","path":"/Tutorials/Tutorials/AdvancedScripting/%E5%8F%91%E5%B0%84%E5%AD%90%E5%BC%B9.html","title":"标题","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Tutorials/AdvancedScripting/发射子弹.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

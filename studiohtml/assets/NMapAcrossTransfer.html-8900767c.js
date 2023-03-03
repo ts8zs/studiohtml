@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-55ebaae7","path":"/Tutorials/Node/NMapAcrossTransfer.html","title":"跨地图传送","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Node/NMapAcrossTransfer.md","git":{"createdTime":1675937086000,"updatedTime":1676371316000}}');export{e as data};

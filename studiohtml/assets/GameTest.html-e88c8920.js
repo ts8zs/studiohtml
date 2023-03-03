@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-12e48cb0","path":"/Tutorials/Script/Debug/GameTest.html","title":"测试模式","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Script/Debug/GameTest.md","git":{"createdTime":1676888528000,"updatedTime":1676888528000}}');export{e as data};

@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as o,R as e,t as c}from"./framework-204010b2.js";const r={},s=e("h1",{id:"音频",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#音频","aria-hidden":"true"},"#"),c(" 音频")],-1),n=[s];function _(d,i){return a(),o("div",null,n)}const l=t(r,[["render",_],["__file","Audio.html.vue"]]);export{l as default};

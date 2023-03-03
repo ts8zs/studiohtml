@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-b7874656","path":"/en/Tutorials/Build/UserUI/Design/%E8%B7%A8%E5%B9%B3%E5%8F%B0%E8%AE%BE%E8%AE%A1.html","title":"人物建模","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Build/UserUI/Design/跨平台设计.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

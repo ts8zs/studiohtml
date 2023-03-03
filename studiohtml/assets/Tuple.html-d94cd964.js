@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6eb99d0e","path":"/en/Api/Parameter/Tuple.html","title":"ReflexTuple","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"代码示例","slug":"代码示例","link":"#代码示例","children":[]}],"filePathRelative":"en/Api/Parameter/Tuple.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

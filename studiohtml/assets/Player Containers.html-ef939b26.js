@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as r,R as e,t as n}from"./framework-204010b2.js";const s={},o=e("h1",{id:"脚本",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#脚本","aria-hidden":"true"},"#"),n(" 脚本")],-1),c=[o];function _(d,i){return a(),r("div",null,c)}const h=t(s,[["render",_],["__file","Player Containers.html.vue"]]);export{h as default};

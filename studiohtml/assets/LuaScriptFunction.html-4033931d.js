@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b343eeb4","path":"/en/Tutorials/Programming/Lua/LuaScriptFunction/LuaScriptFunction.html","title":"脚本功能","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Programming/Lua/LuaScriptFunction/LuaScriptFunction.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{t as data};

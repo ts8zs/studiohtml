@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-075d022c","path":"/Tutorials/Tutorials/AdvancedScripting/%E6%81%A2%E5%A4%8D%E8%A1%80%E9%87%8F.html","title":"标题","lang":"zh-CN","frontmatter":{},"headers":[],"filePathRelative":"Tutorials/Tutorials/AdvancedScripting/恢复血量.md","git":{"createdTime":1675666615000,"updatedTime":1675666615000}}');export{t as data};

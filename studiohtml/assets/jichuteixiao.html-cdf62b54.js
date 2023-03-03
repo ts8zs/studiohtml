@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as c,R as e,t as o}from"./framework-204010b2.js";const r={},s=e("h1",{id:"标题",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#标题","aria-hidden":"true"},"#"),o(" 标题")],-1),i=[s];function n(_,d){return a(),c("div",null,i)}const l=t(r,[["render",n],["__file","jichuteixiao.html.vue"]]);export{l as default};

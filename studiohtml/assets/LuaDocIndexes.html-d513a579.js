@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-90b214fe","path":"/en/Api/Parameter/LuaDocIndexes.html","title":"Lua文档索引","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Api/Parameter/LuaDocIndexes.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

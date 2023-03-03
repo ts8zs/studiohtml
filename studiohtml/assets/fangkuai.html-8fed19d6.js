@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-23df2f6c","path":"/en/Tutorials/Tutorials/Model/fangkuai.html","title":"标题","lang":"en-US","frontmatter":{},"headers":[],"filePathRelative":"en/Tutorials/Tutorials/Model/fangkuai.md","git":{"createdTime":1675739952000,"updatedTime":1675739952000}}');export{e as data};

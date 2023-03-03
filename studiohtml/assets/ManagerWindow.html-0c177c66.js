@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-5300b32c","path":"/Tutorials/Tutorials/UI/ManagerWindow.html","title":"MiniStudio 快捷参考","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"场景树窗口","slug":"场景树窗口","link":"#场景树窗口","children":[]}],"filePathRelative":"Tutorials/Tutorials/UI/ManagerWindow.md","git":{"createdTime":1675666615000,"updatedTime":1675739952000}}');export{t as data};

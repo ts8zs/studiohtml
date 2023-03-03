@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as n,R as e,t as s}from"./framework-204010b2.js";const c={},o=e("h1",{id:"signal",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#signal","aria-hidden":"true"},"#"),s(" Signal")],-1),r=e("p",null,"沙盒信号",-1),_=[o,r];function i(l,d){return t(),n("div",null,_)}const f=a(c,[["render",i],["__file","Signal.html.vue"]]);export{f as default};
